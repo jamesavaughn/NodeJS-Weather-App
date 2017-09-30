@@ -14,3 +14,9 @@ Basic Weather App built using NodeJS, Darksky API and Google API
 
 ` $ npm install `
 ` $ node app.js --a [address or zipcode] `
+
+## Key topics and functions: ##
+* promises, chaining promises
+* Axios module
+* http requests
+* APIs
